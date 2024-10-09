@@ -1,3 +1,7 @@
+# Note: 
+This app shows the APOD (Astronomy Picture of the Day) from NASA's website using it's API
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
